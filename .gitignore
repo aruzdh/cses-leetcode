@@ -1,0 +1,38 @@
+# Rust
+/target/
+**/*.rs.bk
+
+# Coq / Rocq / Formal Verification
+*.vo
+*.glob
+*.vok
+*.vos
+.coq-native/
+.coq-deps/
+.coqide/
+*.aux
+Makefile.coq
+Makefile.coq.conf
+_CoqProject
+
+# Typst Outputs
+*.pdf
+
+# OS Specific
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+#*#
