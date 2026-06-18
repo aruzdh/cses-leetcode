@@ -4,4 +4,7 @@ members = [
     "cses/weird-algorithm",
     "cses/missing-number",
     "cses/repetitions",
+    "cses/increasing-array",
+    "cses/permutations",
+    "cses/number-spiral",
 ]

@@ -3,7 +3,19 @@
 version = 4
 
 [[package]]
+name = "increasing-array"
+version = "0.1.0"
+
+[[package]]
 name = "missing-number"
+version = "0.1.0"
+
+[[package]]
+name = "number-spiral"
+version = "0.1.0"
+
+[[package]]
+name = "permutations"
 version = "0.1.0"
 
 [[package]]
