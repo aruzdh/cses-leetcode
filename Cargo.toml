@@ -1,11 +1,12 @@
 [workspace]
 resolver = "2"
 members = [
-    "cses/weird-algorithm",
-    "cses/missing-number",
-    "cses/repetitions",
-    "cses/increasing-array",
-    "cses/permutations",
-    "cses/number-spiral",
-    "cses/two-knights",
+  "cses/weird-algorithm",
+  "cses/missing-number",
+  "cses/repetitions",
+  "cses/increasing-array",
+  "cses/permutations",
+  "cses/number-spiral",
+  "cses/two-knights",
+  "cses/two-sets",
 ]
