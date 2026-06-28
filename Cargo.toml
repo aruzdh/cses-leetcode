@@ -7,4 +7,5 @@ members = [
     "cses/increasing-array",
     "cses/permutations",
     "cses/number-spiral",
+    "cses/two-knights",
 ]
